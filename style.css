@@ -47,7 +47,12 @@ li {
     cursor: pointer;
 }
 
-li:hover {
+.menu {
+    text-decoration: none;
+    color: white;
+}
+
+.menu:hover {
     color: #f9004d;
     transition: 0.5s;
 }
